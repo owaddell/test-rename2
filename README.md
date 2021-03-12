@@ -1,1 +1,1 @@
-Surely this is a solvable problem.
+Surely this is a soluable problem. :)
